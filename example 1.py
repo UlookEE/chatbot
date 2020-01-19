@@ -18,3 +18,4 @@ for tag in tags:
 for tag in tags:
     print(tag)
 
+# Test easy parser
